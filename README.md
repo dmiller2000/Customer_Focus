@@ -173,17 +173,8 @@ In mobile coupon marketing, understanding real-time acceptance factors is crucia
 - Git (Version Control)
 
 ## Repository Structure
+```bash
 ├── notebooks/          # Analysis notebooks
 ├── data/              # Dataset storage
 ├── visualizations/    # Generated figures
 └── docs/             # Additional documentation
-
-
-
-│
-├── reports/
-│   └── coupon_acceptance_findings.pdf            # Extended analysis report
-│
-├── requirements.txt                              # Project dependencies
-│
-└── .gitignore                                    # Files to exclude from version control
